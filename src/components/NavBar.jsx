@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import "./Navbar.css";
+import "./NavBar.css";
 import { FaHome, FaShoppingCart, FaInfoCircle, FaPhoneAlt } from 'react-icons/fa';
 
 export default function Navbar() {
